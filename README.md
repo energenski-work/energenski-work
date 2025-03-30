@@ -1,12 +1,12 @@
 <table>
 <tr><b>✨Gen✨</b></tr>
 <tr>
-<ul class="unstyled">
-  <li>:: she/they/he</li>
-  <li>:: undergraduate computer science student in uplb, philippines</li>
-  <li>:: currently working (outside of acads) on a website for my gf's parents' clinic along with a database</li>
-  <li>:: open for parttime / freelance work</li>
-  <li>:: finding companies for internship</li>
+<ul>
+  <li>she/they/he</li>
+  <li>undergraduate computer science student in uplb, philippines</li>
+  <li>currently working (outside of acads) on a website for my gf's parents' clinic along with a database</li>
+  <li>open for parttime / freelance work</li>
+  <li>finding companies for internship</li>
 </ul>
 </tr>
 </table>
