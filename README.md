@@ -1,7 +1,7 @@
 <table>
 <tr><b>✨Gen✨</b></tr>
 <tr>
-<ul>
+<ul class="unstyled">
   <li>:: she/they/he</li>
   <li>:: undergraduate computer science student in uplb, philippines</li>
   <li>:: currently working (outside of acads) on a website for my gf's parents' clinic along with a database</li>
