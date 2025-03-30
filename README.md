@@ -1,5 +1,5 @@
 <table>
-<tr>✨ **Gen** ✨</tr>
+<tr><b>✨Gen✨</b></tr>
 <tr>
 <ul>
   <li>:: she/they/he</li>
