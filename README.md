@@ -1,10 +1,15 @@
-✨**Gen**✨
-:: she/they/he
-:: undergraduate computer science student in uplb, philippines
-:: currently working (outside of acads) on a website for my gf's parents' clinic along with a database
-:: open for parttime / freelance work
-:: finding companies for internship
-
+<table>
+<tr>✨**Gen**✨</tr>
+<tr>
+<ul>
+  <li>:: she/they/he</li>
+  <li>:: undergraduate computer science student in uplb, philippines</li>
+  <li>:: currently working (outside of acads) on a website for my gf's parents' clinic along with a database</li>
+  <li>:: open for parttime / freelance work</li>
+  <li>:: finding companies for internship</li>
+</ul>
+</tr>
+</table>
 <!--
 **energenski-work/energenski-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
